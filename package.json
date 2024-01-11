@@ -1,0 +1,14 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Andrey Khokhlov",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.1.3"
+  }
+}
